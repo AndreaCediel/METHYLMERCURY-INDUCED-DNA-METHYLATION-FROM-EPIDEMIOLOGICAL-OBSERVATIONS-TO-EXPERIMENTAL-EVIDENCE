@@ -22,6 +22,9 @@ L = low concentration, cells exposed to 8 nM MeHg
 H = high concentration, cells exposed to 40 nM MeHg
 
 -Numerals acompaning the sample's name indicate biological replicates, for instance, C1 indicates a negative controls obtained from briological replicate 1. 
+
 -The "CT_values" worksheet contains non-normalized data (CT values)
+
 -The "Normalized" worksheet contains CT values normalized aginst the geometric mean of the three tested reference genes
+
 -The "Fold_Change" worksheet contains fold-change data
